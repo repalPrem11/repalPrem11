@@ -7,6 +7,7 @@ I am an SRE/DevOps Engineer with experience in:
 - Kubernetes
 - Docker
 - CI/CD
+- Splunk
 - Monitoring & Observability
 
 ## 🛠️ Skills
