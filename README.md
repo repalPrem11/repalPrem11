@@ -26,7 +26,8 @@ I am an SRE/DevOps Engineer with experience in:
 - Docker
 - Kubernetes
 - Jenkins
-- GitHub Actions
+- Puppet
+- Gitlab
 - Terraform
 - Helm
 
