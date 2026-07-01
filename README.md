@@ -1,4 +1,4 @@
-## 🚀 Site Reliability Engineer | DevOps Engineer
+##  Site Reliability Engineer | DevOps Engineer
 
 I am an SRE/DevOps Engineer with experience in:
 
